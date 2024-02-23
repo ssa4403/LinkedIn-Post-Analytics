@@ -2,7 +2,7 @@
 
 # Overview
 
-This repository hosts the LinkedIn Post Analytics Project, which investigates the characteristics of successful LinkedIn posts. The project spans data cleaning, exploratory data analysis (EDA), and predictive modeling to understand what drives engagement on LinkedIn posts. Using Python, Tableau, and insights from a comprehensive dataset obtained from Kaggle, this project aims to provide actionable recommendations for creating high-engagement LinkedIn content.
+LinkedIn Post Analytics Project, which investigates the characteristics of successful LinkedIn posts. The project spans data cleaning, exploratory data analysis (EDA), and predictive modeling to understand what drives engagement on LinkedIn posts. Using Python, Tableau, and insights from a comprehensive dataset obtained from Kaggle, this project aims to provide actionable recommendations for creating high-engagement LinkedIn content.
 
 # Project Structure
 
